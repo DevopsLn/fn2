@@ -1,0 +1,17 @@
+Login to Linux server 
+git add .
+git commit .-m "added secure"
+ls -la ~( it means your looking into home directory)
+.ssh folder present.
+ls -la ~/.ssh/
+you can see authorized_keys
+if you want to genrate keys, you need to use ssh-keygen
+Keys will be present in : /root/.ssh/
+
+if you want to skip entering through password , you can use key.
+now you can share the pub key with your remote servernew updat
+new update after created key
+
+we need to reset git remote git remote set-url origin git@github.com:DevopsLn/Fnlgitpractice.git
+now 
+
